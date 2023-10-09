@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.div-1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    background-color: tan;
+    padding-bottom: 50px;
+    display: block;
+    border-radius: 20px;
+    padding-left: ;
+    
+
+
+}
+.div, h1{
+    padding-top: 10px;
+    margin-top: 10px;
+
+}
+.html-forms{
+    padding:10px;
+}
